@@ -24,6 +24,11 @@ Second paragraph
 bundle exec jekyll serve
 bundle exec serve
 '''
+You can add code using backticks; one backtick for inline code and three backticks for a code block
+```
+bundle exec jekyll serve
+backticks like so: ```
+```
 
 [link to our main site](https://example.com)
 
