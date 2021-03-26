@@ -30,7 +30,6 @@ bundle exec serve
 [link text](https://google.com)
 
 [link to asset](_site/assets/js/search-data.json)
-[link to asset 2](~/Documents/GitHub/futureDocs/_site/assets/js/search-data.json)
 ## Level 2
 ## Level 3
 
