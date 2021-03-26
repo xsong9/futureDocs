@@ -1,5 +1,5 @@
 ---
-title: Front Page
+title: Writing New Docs 
 layout: default
 nav_order: 1
 ---
