@@ -2,7 +2,6 @@
 title: Workshop notes
 layout: default
 nav_order: 1
-parent: Front Page
 ---
 
 # Documentation workshop at code4lib
